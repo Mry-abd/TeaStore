@@ -5,7 +5,10 @@
 	<properties>
 		<teastoreversion>1.4.1</teastoreversion>
 	</properties>
-
+	<properties>
+	  <sonar.organization>mry-abd</sonar.organization>
+	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 	<prerequisites>
 		<maven>3.6</maven>
 	</prerequisites>
